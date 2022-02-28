@@ -23,12 +23,12 @@ const Home: NextPage = () => {
         <div className={styles.grid}>
           <a href="https://github.com/LiorVainer/4rest" className={styles.card}>
             <h2>Github &rarr;</h2>
-            <p>See 4rest in Github</p>
+            <p>See 4rest in Github!</p>
           </a>
 
           <a href="https://www.npmjs.com/package/4rest" className={styles.card}>
             <h2>NPM &rarr;</h2>
-            <p>See 4rest in NPM</p>
+            <p>See 4rest in NPM!</p>
           </a>
         </div>
       </main>
